@@ -1,6 +1,6 @@
 {
   "name": "procedural-rng",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A collection of procedural random number generators (prng) written in TypeScript",
   "main": "build/module.js",
   "types": "build/module.d.ts",
