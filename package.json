@@ -4,6 +4,7 @@
   "description": "A collection of procedural random number generators (prng) written in TypeScript",
   "main": "build/module.js",
   "types": "build/module.d.ts",
+  "files": ["build/**/*"],
   "scripts": {
     "build": "tsc",
     "test": "jest"
